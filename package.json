@@ -1,0 +1,19 @@
+{
+  "name": "reading-app",
+  "version": "1.0.0",
+  "description": "\"This is a reading app which tracks the past, current and future books, comic and manga readings.\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nahuel-D-Bogado/reading-app.git"
+  },
+  "author": "Nahuel D. Bogado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nahuel-D-Bogado/reading-app/issues"
+  },
+  "homepage": "https://github.com/Nahuel-D-Bogado/reading-app#readme"
+}
