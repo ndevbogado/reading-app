@@ -1,19 +1,19 @@
 {
-  "name": "reading-app",
+  "name": "s1-04-m",
   "version": "1.0.0",
-  "description": "\"This is a reading app which tracks the past, current and future books, comic and manga readings.\"",
+  "description": "Home Banking App",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nahuel-D-Bogado/reading-app.git"
+    "url": "git+https://github.com/No-Country/S1-04-M"
   },
-  "author": "Nahuel D. Bogado",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Nahuel-D-Bogado/reading-app/issues"
+    "url": "https://github.com/No-Country/S1-04-M/issues"
   },
-  "homepage": "https://github.com/Nahuel-D-Bogado/reading-app#readme"
+  "homepage": "https://github.com/No-Country/S1-04-M#readme"
 }

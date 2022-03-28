@@ -1,2 +1,9 @@
-# reading-app
-This is a reading app which tracks the past, current and future books, comic and manga readings.
+# S1-04-M
+This is a Home Banking app which contains the following entities:
+ - User Login
+ - Transaction's history
+ - New Transaction
+ - Transaction Confirmation
+ - See Balance
+ - Sign Up and Cards
+ - Working place set up
